@@ -10,7 +10,7 @@ fonttools==4.62.1
 joblib==1.5.2
 kiwisolver==1.5.0
 matplotlib==3.10.9
-mediapipe==0.10.11
+mediapipe==0.10.35
 numpy==1.24.4
 opencv-contrib-python==4.7.0.72
 opencv-python==4.7.0.72
